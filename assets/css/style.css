@@ -191,3 +191,9 @@ main .row {
     width: 10rem;
   }
 }
+
+@media (max-width:421px) {
+  html {
+    font-size: 14px;
+  }
+}
