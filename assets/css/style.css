@@ -160,7 +160,7 @@ main .row {
   }
 
   .main-block {
-    padding: 3rem 4rem;
+    padding: 2rem 1rem;
   }
 
   .main-block_head h1 {
@@ -184,5 +184,10 @@ main .row {
   .header-nav_ul {
     display: flex;
     flex-wrap: wrap;
+  }
+
+  .card-img {
+    padding: 2rem;
+    width: 10rem;
   }
 }
